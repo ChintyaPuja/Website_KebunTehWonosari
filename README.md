@@ -35,6 +35,6 @@
   
   ## 📑Paper
   
-  Pada Paper Website Kami dapat di akses pada link https://github.com/Erlangga-stonks/About_me_KebunTehWonosari/blob/main/Files/Project.docx
+  Paper pada website kami dapat di akses pada link https://github.com/ChintyaPuja/Website_KebunTehWonosari/blob/main/Files/Project.docx
   
   
